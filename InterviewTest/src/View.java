@@ -23,6 +23,12 @@ public class View {
 				System.out.println("where running out ");
 			}
 		}
+		
+		
+	}
+	public void outOfTime()
+	{
+		System.out.println("dada");
 	}
 
 	
